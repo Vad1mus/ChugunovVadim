@@ -1,0 +1,5 @@
+Name: ASUS Count of product: 5  $BUY: 3000 $SELL:4500
+Name: ACER Count of product: 10  $BUY: 2000 $SELL:2500
+Name: LENOVO Count of product: 15  $BUY: 5000 $SELL:7000
+Name: Dell Count of product: 25  $BUY: 3600 $SELL:6400
+Name: Samsung Count of product: 45  $BUY: 10000 $SELL:12000
